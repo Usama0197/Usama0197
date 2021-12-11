@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Usama0197
 - 👀 I’m interested in ...Data Science
-- 🌱 I’m currently learning ...SQL, PYTHON, Machine Learning, Big Data and Hadoop, Tableau, Power BI
+- 🌱 I’m currently learning ...SQL, PYTHON, Machine Learning, Big Data and Hadoop, Spark, Tableau, Power BI
 - 💞️ I’m looking to collaborate on ...ML Projects
 - 📫 How to reach me ...usamashaikh0108@gmail.com
 
